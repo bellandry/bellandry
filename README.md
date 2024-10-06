@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-<br>🔭 I’m currently working on AI LLM models in my Apps<br>👯 I’m looking to collaborate on React.js & Vue.js<br>🌱 I’m currently learning Next.js and Nuxt.js<br>⚡ Fun fact, I come from physics degree to web Dev
+<br>🔭 I’m currently working on AI LLM Integration in my Apps<br>👯 I’m looking to collaborate on React.js & Vue.js<br>🌱 I’m currently learning Next.js and Nuxt.js<br>⚡ Fun fact, I come from physics degree to web Dev
 
 
 ## 🌐 Socials:
