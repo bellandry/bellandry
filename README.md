@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Landry, a Full-stack Developer based on Cameroon 🇨🇲
 # 💫 About Me:
 🔭 I’m currently working on AI LLM integration in React's Apps<br>👯 I’m looking to collaborate on React.js & Vue.js<br>🌱 I’m currently learning Next.js and Nuxt.js<br>⚡ Fun fact, I come from physics degree to web Dev
 
