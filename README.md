@@ -1,4 +1,3 @@
-# Landry Bella
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Landry%20Bella&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 Full-stack developer from Cameroon 🇨🇲  
 I design and build robust web applications — from backend architecture to modern frontend experiences.
@@ -47,6 +46,16 @@ Technology evolves fast, but strong fundamentals last.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bellandry&show_icons=true&hide_border=true&theme=transparent"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellandry&layout=compact&hide_border=true&theme=transparent"/>
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bellandry&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bellandry&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bellandry&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bellandry&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
