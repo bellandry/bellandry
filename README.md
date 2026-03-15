@@ -1,5 +1,5 @@
 # Landry Bella
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Landry%20Bella&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 Full-stack developer from Cameroon 🇨🇲  
 I design and build robust web applications — from backend architecture to modern frontend experiences.
 
@@ -33,13 +33,31 @@ Technology evolves fast, but strong fundamentals last.
 - building high-quality developer tools  
 - creating educational content for developers
 
-## Connect
+## 🌍 Connect
 
-🌐 Website — https://laclass.dev  
-💼 LinkedIn — https://linkedin.com/in/bellandry  
-📘 Facebook — https://facebook.com/LaclassWebDev  
-📸 Instagram — https://instagram.com/laclass.dev
+[Website](https://laclass.dev) •  
+[LinkedIn](https://linkedin.com/in/bellandry) •  
+[Facebook](https://facebook.com/LaclassWebDev) •  
+[Instagram](https://instagram.com/laclass.dev)
 
 ---
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
+## 📊 Activity
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bellandry&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellandry&layout=compact&hide_border=true&theme=transparent"/>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bellandry&theme=github-compact&hide_border=true"/>
+
+---
+
+<p align="center">
+<i>"Programs must be written for people to read."</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
