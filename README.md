@@ -1,64 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Landry%20Bella&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-Full-stack developer from Cameroon 🇨🇲  
-I design and build robust web applications — from backend architecture to modern frontend experiences.
+<div align="center">
 
-## About
+# Hi, I'm Landry BELLA 👋
 
-I’ve been building web applications since 2019, working across the full stack with a strong focus on clean architecture, performance and developer experience.
+**Développeur Javascript/Typescript, PHP et amateur de Café ☕️.
+Let's code and build amazing things together! 💻☕️**
 
-My background in physics shaped the way I approach software:  
-breaking complex systems into understandable models and building reliable solutions.
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40bellandry-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/bellandry) [![Website](https://www.shieldcn.dev/badge/Website-laclass.dev-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://laclass.dev) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40bellandry-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/bellandry) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/laclass.dev)
 
-Today I mainly work on:
-- modern web platforms
-- SaaS
-- scalable backend systems
-- developer tools
-- AI / LLM integrations inside web applications
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/bellandry.svg?variant=secondary&size=sm)](https://github.com/bellandry?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/bellandry.svg?variant=secondary&size=sm)](https://github.com/bellandry?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-53-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/bellandry?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Cameroon-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
-## Philosophy
+</div>
 
-I believe good software is:
+## 🛠️ Skills & Technologies
 
-- **Simple** to understand
-- **Reliable** in production
-- **Pleasant** for developers to maintain
-
-Technology evolves fast, but strong fundamentals last.
-
-## Current Focus
-
-- AI & LLM integrations in web applications  
-- building high-quality developer tools  
-- creating educational content for developers
-
-## 🌍 Connect
-
-[Website](https://laclass.dev) •  
-[LinkedIn](https://linkedin.com/in/bellandry) •  
-[Facebook](https://facebook.com/LaclassWebDev) •  
-[Instagram](https://instagram.com/laclass.dev)
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm) ![Better Auth](https://www.shieldcn.dev/badge/-Better_Auth-000000.svg?logo=ri%3ARiShieldKeyholeFill&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![PostgreSQL](https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Prisma](https://www.shieldcn.dev/badge/-Prisma-2D3748.svg?logo=prisma&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![Mongoose](https://www.shieldcn.dev/badge/-Mongoose-47A248.svg?logo=mongodb&variant=branded&size=sm) ![Socket.IO](https://www.shieldcn.dev/badge/-Socket.IO-010101.svg?logo=socketdotio&variant=branded&size=sm)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bellandry&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bellandry&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bellandry&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bellandry&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bellandry&theme=github-compact&hide_border=true"/>
-
----
-
-<p align="center">
-<i>"Programs must be written for people to read."</i>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
